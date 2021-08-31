@@ -1,5 +1,5 @@
 # BM_Merchant_Products
-[python 3.9.6]
+![Python version](https://img.shields.io/badge/python-3.9.6-green)
 
  A Python script built for the merchant of Back Market which includes basic API functions and basic functions for listings products and save them in db.
 
