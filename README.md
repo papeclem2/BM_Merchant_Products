@@ -1,4 +1,6 @@
 # BM_Merchant_Products
+[python 3.9.6]
+
  A Python script built for the merchant of Back Market which includes basic API functions and basic functions for listings products and save them in db.
 
 ## Getting Started
